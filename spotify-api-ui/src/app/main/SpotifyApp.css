@@ -1,0 +1,25 @@
+.alignTd {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.pagination {
+    text-align: center;
+}
+
+.licence {
+    padding: 5px 0 40px 0;
+}
+
+.limit {
+    margin: 5px 5px 0 5px;
+}
+
+.limitGroup {
+    color: #337ab7;
+    margin-top: 5px;
+}
+
+.appContainer {
+    padding: 30px 75px 0 75px;
+}

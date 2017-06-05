@@ -1,0 +1,5 @@
+server:
+  servlet-path: /rest/
+  port: 8081
+
+token: "BQC_DprHnxDYM3SwDFmL3rb63RuWdwmqmq3sEAXnpNYgf0OcWZcusYIC9eqaGk1t1iJJcyzx1j6LQx5usMrm0cK4NDjiF5_tvajqsbTxHDL6z03GPncnksjGMtp7tAaJbw3SBB1wr0vYurAFnQ"
